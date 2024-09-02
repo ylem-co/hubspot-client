@@ -1,4 +1,4 @@
-module github.com/datamin-io/hubspot-client
+module github.com/ylem-co/hubspot-client
 
 go 1.21
 
